@@ -1,0 +1,8 @@
+C:\Users\mi.agrawal\source\repos\BlogAssignment\BlogAssignmentBO\bin\Debug\netstandard2.0\BlogAssignmentBO.deps.json
+C:\Users\mi.agrawal\source\repos\BlogAssignment\BlogAssignmentBO\bin\Debug\netstandard2.0\BlogAssignmentBO.dll
+C:\Users\mi.agrawal\source\repos\BlogAssignment\BlogAssignmentBO\bin\Debug\netstandard2.0\BlogAssignmentBO.pdb
+C:\Users\mi.agrawal\source\repos\BlogAssignment\BlogAssignmentBO\obj\Debug\netstandard2.0\BlogAssignmentBO.csprojAssemblyReference.cache
+C:\Users\mi.agrawal\source\repos\BlogAssignment\BlogAssignmentBO\obj\Debug\netstandard2.0\BlogAssignmentBO.AssemblyInfoInputs.cache
+C:\Users\mi.agrawal\source\repos\BlogAssignment\BlogAssignmentBO\obj\Debug\netstandard2.0\BlogAssignmentBO.AssemblyInfo.cs
+C:\Users\mi.agrawal\source\repos\BlogAssignment\BlogAssignmentBO\obj\Debug\netstandard2.0\BlogAssignmentBO.dll
+C:\Users\mi.agrawal\source\repos\BlogAssignment\BlogAssignmentBO\obj\Debug\netstandard2.0\BlogAssignmentBO.pdb

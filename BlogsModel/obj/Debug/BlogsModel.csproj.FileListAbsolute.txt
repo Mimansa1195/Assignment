@@ -1,0 +1,11 @@
+C:\Users\mi.agrawal\source\repos\BlogAssignment\BlogsModel\obj\Debug\BlogsModel.csprojAssemblyReference.cache
+C:\Users\mi.agrawal\source\repos\BlogAssignment\BlogsModel\bin\Debug\BlogsModel.dll.config
+C:\Users\mi.agrawal\source\repos\BlogAssignment\BlogsModel\bin\Debug\BlogsModel.dll
+C:\Users\mi.agrawal\source\repos\BlogAssignment\BlogsModel\bin\Debug\BlogsModel.pdb
+C:\Users\mi.agrawal\source\repos\BlogAssignment\BlogsModel\bin\Debug\EntityFramework.dll
+C:\Users\mi.agrawal\source\repos\BlogAssignment\BlogsModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mi.agrawal\source\repos\BlogAssignment\BlogsModel\bin\Debug\EntityFramework.xml
+C:\Users\mi.agrawal\source\repos\BlogAssignment\BlogsModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mi.agrawal\source\repos\BlogAssignment\BlogsModel\obj\Debug\BlogsModel.csproj.CopyComplete
+C:\Users\mi.agrawal\source\repos\BlogAssignment\BlogsModel\obj\Debug\BlogsModel.dll
+C:\Users\mi.agrawal\source\repos\BlogAssignment\BlogsModel\obj\Debug\BlogsModel.pdb
